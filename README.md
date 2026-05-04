@@ -12,7 +12,6 @@ Hi, I'm Rahul Kumar Sah 👋<br><br>I am a passionate Web Developer with a stron
 ![](https://streak-stats.demolab.com/?user=rahul-sah-07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rahul-sah-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=rahul-sah-07&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
